@@ -21,7 +21,7 @@ entrypoints==0.3
 fasteners==0.14.1
 feedparser==5.2.1
 future==0.18.2
-gobject-introspection==1.0
+gobject-introspection
 gunicorn==20.0.4
 html2text==2020.1.16
 html5-parser==0.4.9
