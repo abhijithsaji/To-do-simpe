@@ -65,7 +65,7 @@ PyQt5==5.14.1
 PyQtWebEngine==5.14.0
 pyRFC3339==1.1
 python-language-server==0.31.10
-python-apt==0.7.
+python-apt==0.7.8
 python-dateutil==2.7.3
 python-debian===0.1.36build1
 pytz==2019.3
