@@ -6,7 +6,6 @@ blinker==1.4
 boto3==1.12.47
 botocore==1.15.47
 certifi==2019.11.28
-chardet==3.0.4
 command-not-found==0.3
 cryptography==2.8
 css-parser==1.0.4
